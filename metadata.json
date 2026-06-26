@@ -1,0 +1,6 @@
+{
+  "name": "Johrei Center Manager",
+  "description": "Sistema de gestão e CRM espiritual para administração de membros, frequentadores, setores, famílias e jornada do frequentador de um Johrei Center.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
